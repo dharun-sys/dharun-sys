@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Some hunt for treasure, I hunt for bugs—both pay in gold.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
