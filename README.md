@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharun-sys&label=Profile%20views&color=0e75b6&style=flat" alt="dharun-sys" /> </p>
 
-- 🔭 I’m currently working on **Cyber Security and Embedded Systems**
+- 🔭 I’m currently working on **Cyber Security, System Design and Embedded Systems**
 
-- 💬 Ask me about **Web Hacking, Embedded Systems, Anime recommendations**
+- 💬 Ask me about **System Desgin, Embedded Systems, Anime recommendations**
 
 - 📫 How to reach me **dharun.logic@gmail.com**
 
